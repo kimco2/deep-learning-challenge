@@ -22,7 +22,7 @@ Email: kymcoleman@gmail.com
 ---
 <br/>
 
-<font size='1'> Folder structure
+<font size='1' color='grey'> Folder structure
 
 
 The main folder contains:
