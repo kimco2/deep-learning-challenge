@@ -22,7 +22,7 @@ Email: kymcoleman@gmail.com
 ---
 <br/>
 
-Folder structure
+<font size='1'> Folder structure
 
 
 The main folder contains:
@@ -34,4 +34,4 @@ The main folder contains:
 
 The folder  **HDF5_files** contains the HDF5 files for the original model and the three attempts to optimise it.
 
-The folder  **model_weights** contains the HDF5 files saved at intervals of every 5 epochs for the original model and the three attempts to optimise it.
+The folder  **model_weights** contains the HDF5 files saved at intervals of every 5 epochs for the original model and the three attempts to optimise it.</font>
